@@ -38,3 +38,4 @@ Sparse Rewards:
 This game demonstrates the effectiveness of Q-learning in a simple game environment. Through reasonable state representation and reward design, the AI can learn complex dodging strategies. Future work includes introducing more enemy types, optimizing state representation, and exploring more advanced reinforcement learning algorithms.
 
 **Vedio Link: https://youtu.be/SpP7NfWNkJs**
+When recording a video, I was unable to make the screen full screen due to a problem with the recording software. This resulted in the cursor position not matching the actual screen display position.
